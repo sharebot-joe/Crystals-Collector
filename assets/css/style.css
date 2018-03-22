@@ -4,25 +4,31 @@ body {
 	background: url("../images/vegas.jpg") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
+  font-family: verdana, sans-serif;
 }
 .titlediv {
 	max-width: 800px;
 	margin: 10px auto;
 	padding: 20px;
-	background: midnightblue;
+	background: indigo;
 	color: #fff;
-	font-size: 2rem;
+	
+}
+h1 {
+	font-size: 3rem;
+	font-weight: bold;
 }
 .rules {
 	max-width: 800px;
 	margin: 10px auto;
 	padding: 20px;
 	background: lightgray;
-	font-size: 1.3rem;
+	font-size: 1rem;
 	text-align: left;
 }
 .rules p {
 	color: #000;
+	font-weight: bold;
 }
 .container {
 	max-width: 800px;
@@ -38,7 +44,7 @@ body {
 	height: 175px;
 	margin: 10px ;
 	padding: 20px;
-	background: lightgray;
+	background: ghostwhite;
 	color: #000;
 }
 .targetnum {
@@ -58,12 +64,13 @@ body {
 
 }
 .gamestatus div {
-	font-size: 2.5rem;
-	line-height: 3.2rem;
-
+	font-size: 2rem;
+	line-height: 2.5rem;
+	font-weight: bold;
 }
 .wins, .losses {
 	margin: 0 20px;
+	font-weight: bold;
 }
 
 .crystalcontainer {
@@ -115,4 +122,26 @@ body {
 	color: #fff;
 	font-size: 3em;
 	font-family: Oswald, sans-serif;
+}
+
+/*Button Effect*/
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #F5F5F5;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #999;
+}
+
+.button:hover {background-color: #D3D3D3}
+
+.button:active {
+  background-color: #D3D3D3;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }

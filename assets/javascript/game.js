@@ -35,21 +35,23 @@ $(document).ready(function() {
 	// Onclick Events
 	$('.red, .blue, .yellow, .green').on("click", function() {
 
-		// Adding numbers and displaying result
+		// Add numbers and display result
 		playerTotal = playerTotal + parseInt($(this).attr('value'))
 		$('.playernum').html(playerTotal)
 
-		// Checking for win condition
+		// Check for win condition
 		if(playerTotal === randomNumber) {
 			wins++
 			$('.wins').html(wins)
+			$('.result').html("You won!!")
 			resetGame();
 		}; 
 
-		// Checking for loss condition
+		// Check for loss condition
 		if(playerTotal > randomNumber) {
 			losses++
 			$('.losses').html(losses)
+			$('.result').html("You lost!!")
 			resetGame();
 		};
 	});
