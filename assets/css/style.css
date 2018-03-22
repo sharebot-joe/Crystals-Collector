@@ -1,0 +1,118 @@
+
+body {
+	padding-top: 30px;
+	background: url("../images/vegas.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.titlediv {
+	max-width: 800px;
+	margin: 10px auto;
+	padding: 20px;
+	background: midnightblue;
+	color: #fff;
+	font-size: 2rem;
+}
+.rules {
+	max-width: 800px;
+	margin: 10px auto;
+	padding: 20px;
+	background: lightgray;
+	font-size: 1.3rem;
+	text-align: left;
+}
+.rules p {
+	color: #000;
+}
+.container {
+	max-width: 800px;
+	margin: 10px auto;
+	padding: 20px;
+	background: lightblue;
+	color: #fff;
+	font-size: 1.3rem;
+}
+.targetcontainer {
+	display: inline-block;
+	vertical-align: top;
+	height: 175px;
+	margin: 10px ;
+	padding: 20px;
+	background: lightgray;
+	color: #000;
+}
+.targetnum {
+	/*max-width: 400px;*/
+	color: #000;
+	font-size: 3.3em;
+	font-family: Oswald, sans-serif;
+}
+.gamestatus {
+	display: inline-block;
+	/*max-width: 250px;*/
+	height: 175px;
+	margin: 10px;
+	padding: 20px;
+	background: darkslateblue;
+	color: #fff;
+
+}
+.gamestatus div {
+	font-size: 2.5rem;
+	line-height: 3.2rem;
+
+}
+.wins, .losses {
+	margin: 0 20px;
+}
+
+.crystalcontainer {
+
+	width: 800px;
+	margin: 10px auto;
+	padding: 10px;
+	background: lightpink;
+	text-align: center;
+}
+.crystalcontainer img {
+	max-width: 100%;
+	padding: 20px;
+}
+.crystalcontainer div {
+	display: inline-block;
+	margin: 10px;
+	padding: 0;
+}
+.col-lg-2 {
+	max-width: 21%;
+	margin: 0 20px;
+}
+.blue,
+.red,
+.yellow,
+.green {
+	/*display: inline-block;*/
+	/*width: 160px;
+	height: 160px;*/
+	margin: 0;
+	padding: 0;
+	background: white;
+}
+
+.totalcontainer {
+	width: 800px;
+	margin: 10px auto;
+	padding: 10px;
+	background: dimgray;
+	text-align: center;
+}
+.total {
+	color: #fff;
+	font-size: 3em;
+	font-family: Oswald, sans-serif;
+}
+.playernum {
+	color: #fff;
+	font-size: 3em;
+	font-family: Oswald, sans-serif;
+}
