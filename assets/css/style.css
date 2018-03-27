@@ -15,7 +15,7 @@ body {
 	
 }
 h1 {
-	font-size: 3rem;
+	font-size: 2.2rem;
 	font-weight: bold;
 }
 .rules {
@@ -64,8 +64,8 @@ h1 {
 
 }
 .gamestatus div {
-	font-size: 2rem;
-	line-height: 2.5rem;
+	font-size: 1.7rem;
+	line-height: 2rem;
 	font-weight: bold;
 }
 .wins, .losses {
