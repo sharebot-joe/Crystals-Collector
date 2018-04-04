@@ -19,3 +19,5 @@ The player loses if their score goes above the random number.
 The game restarts whenever the player wins or loses.
 
 Good luck!
+
+<img src="assets/images/screenshot.jpg" alt="alt text" width="500">
