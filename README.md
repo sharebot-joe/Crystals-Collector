@@ -2,7 +2,9 @@
 
 A fun and interactive number game!
 
-How to play:
+Click the Github Pages link above to get started.
+
+**How to play:**
 
 There will be four crystals displayed as buttons on the page.
 
