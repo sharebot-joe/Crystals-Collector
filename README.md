@@ -20,4 +20,4 @@ The game restarts whenever the player wins or loses.
 
 Good luck!
 
-<img src="assets/images/screenshot.jpg" alt="alt text" width="500">
+<img src="assets/images/screenshot.JPG" alt="alt text" width="500">
