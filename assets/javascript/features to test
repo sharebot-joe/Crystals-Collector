@@ -1,0 +1,12 @@
+features to test
+
+hitting repeat keys - ok
+hitting a double letter in gameboard - ok
+winning - ok
+
+things to fix
+
+first keyevent has two bindings
+gameboard divs shift position when letter is revealed - ok
+fix youtube links -ok
+show youtube video name on play
