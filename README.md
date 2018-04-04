@@ -1,4 +1,4 @@
-## Crystals Collector
+# Crystals Collector
 
 A fun and interactive number game!
 
