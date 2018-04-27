@@ -1,5 +1,7 @@
 # Crystals Collector
 
+[Project Link] (https://sharebot-joe.github.io/Crystals-Collector/ "Crystals Collector"
+
 A fun and interactive number game!
 
 Click the Github Pages link above to get started.
