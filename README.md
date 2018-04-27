@@ -1,6 +1,6 @@
 # Crystals Collector
 
-[Project Link] (https://sharebot-joe.github.io/Crystals-Collector/ "Crystals Collector"
+[Project Link](https://sharebot-joe.github.io/Crystals-Collector/ "Crystals Collector")
 
 A fun and interactive number game!
 
