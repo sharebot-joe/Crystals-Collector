@@ -1,24 +1,22 @@
 # Crystals Collector
 
-[Project Link](https://sharebot-joe.github.io/Crystals-Collector/ "Crystals Collector")
+[Start Game!](https://sharebot-joe.github.io/Crystals-Collector/ "Crystals Collector")
 
-A fun and interactive number game!
+A fun and interactive numbers game!
 
-Click the Github Pages link above to get started.
+Click the link above to get started.
 
 **How to play:**
 
-There will be four crystals displayed as buttons on the page.
+There are four crystals displayed as buttons on the page.
 
-The player will be shown a random number at the start of the game.
+You will be shown a random number at the start of the game.
 
-When the player clicks on a crystal, it will add a specific amount of points to the player's total score.
+Click on a crystal to add a specific amount of points to your total score.
 
-The player wins if their total score matches the random number.
+Match your total score to the random number to win!
 
-The player loses if their score goes above the random number.
-
-The game restarts whenever the player wins or loses.
+If your score goes above the random number, you lose!
 
 Good luck!
 
